@@ -27,7 +27,7 @@ import Button from './Button';
 Button Props
 The Button component accepts the following props:
 
-```buttonText: `The text to be displayed on the button.
+buttonText: The text to be displayed on the button.
 buttonStyle: An object representing the CSS styles for the button.
 onClick: The function to be executed when the button is clicked.
-```
+
